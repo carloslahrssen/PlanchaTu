@@ -1,0 +1,88 @@
+#propuesta-input{
+    border-radius: 5px;
+}
+#button-propuesta{
+    background-color:#3498db;
+}
+hr{
+    border-color: #3498db;
+}
+.text-primary{
+    color:#fff;
+}
+.text-muted{
+    color:rgba(255, 255, 255, 0.7);
+}
+#mission{
+    border-color:#fff;
+}
+#about{
+    min-height:50%;
+    background-color:#3498db;
+}
+#services{
+    min-height:75%;
+    background-color: #3498db;
+    color:#fff;
+}
+#portfolio{
+    min-height:50%;
+}
+#mision-vision{
+    min-height:75%;
+    background-color:#fff;
+}
+
+.portfolio-box .portfolio-box-caption{
+    background:#3498db;
+}
+.bg-dark{
+    background-color:#3498db;
+}
+.navbar-default.affix .navbar-header .navbar-brand {
+  color: #2980b9;
+}
+.navbar-default .navbar-header .navbar-brand{
+    color:#fff;
+}
+.navbar-default .nav > li.active > a,
+.navbar-default .nav > li.active > a:focus {
+  color: #000 !important;
+}
+a{
+    color:#3498db;
+}
+.navbar-default.affix .nav > li > a:hover,
+  .navbar-default.affix .nav > li > a:focus:hover {
+    color: #2980b9;
+  }
+ a:hover, a:focus{
+    color:#2980b9;
+ }
+ .navbar-default .navbar-header .navbar-brand:hover, .navbar-default .navbar-header .navbar-brand:focus {
+    color: #000;
+}
+@media (min-width: 768px)
+.navbar-default.affix .navbar-header .navbar-brand:hover, .navbar-default.affix .navbar-header .navbar-brand:focus {
+    color: #2980b9;
+}
+
+.navbar-default.affix .navbar-header .navbar-brand:hover, .navbar-default.affix .navbar-header .navbar-brand:focus {
+    color:#2980b9;
+}
+
+#imgg{
+    height:90px;
+    width:160px;
+    margin-left:-40px;
+}
+.navbar-brand{
+    padding:0px;
+    margin-right:-40px;
+}
+#brand-text{
+    padding:15px 15px;
+}
+#slogan{
+    color:#1d1d1d;
+}
